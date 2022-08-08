@@ -1,0 +1,15 @@
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\bin\Debug\net6.0\Exercicio28.exe
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\bin\Debug\net6.0\Exercicio28.deps.json
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\bin\Debug\net6.0\Exercicio28.runtimeconfig.json
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\bin\Debug\net6.0\Exercicio28.dll
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\bin\Debug\net6.0\Exercicio28.pdb
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\obj\Debug\net6.0\Exercicio28.csproj.AssemblyReference.cache
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\obj\Debug\net6.0\Exercicio28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\obj\Debug\net6.0\Exercicio28.AssemblyInfoInputs.cache
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\obj\Debug\net6.0\Exercicio28.AssemblyInfo.cs
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\obj\Debug\net6.0\Exercicio28.csproj.CoreCompileInputs.cache
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\obj\Debug\net6.0\Exercicio28.dll
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\obj\Debug\net6.0\refint\Exercicio28.dll
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\obj\Debug\net6.0\Exercicio28.pdb
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\obj\Debug\net6.0\Exercicio28.genruntimeconfig.cache
+C:\Users\barro\workspace\areaDeUmRetangulo\Exercicio28\Exercicio28\obj\Debug\net6.0\ref\Exercicio28.dll
