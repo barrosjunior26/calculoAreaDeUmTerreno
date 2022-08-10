@@ -42,7 +42,7 @@
                 //Acima de 500m² para um terreno do tipo VIP
                 else
                 {
-                    Console.WriteLine($"Chegamos a conclusão que seu terreno, possui o total de {A} m².\nTerreno com classificação: VIP");
+                    Console.WriteLine($"Chegamos a conclusão que seu terreno possui o total de {A} m².\nTerreno com classificação: VIP");
                 }
                 Console.Write("1 - Para nova operação ou 0 para SAIR do sistema: ");
                 escolha = int.Parse(Console.ReadLine());
